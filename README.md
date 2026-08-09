@@ -1,7 +1,5 @@
 # Merhaba, ben Ardam .M 👋
 
-Serbest muhasebeci mali müşavir (SMMM) dünyasına özel yazılımlar geliştiren yazılım geliştiricisiyim.
-
 ## 🚀 Öne Çıkan Proje
 
 ### [BeyanTakip](https://github.com/ArdaEkiz0/beyanname-takip)
