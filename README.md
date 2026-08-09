@@ -1,4 +1,4 @@
-# Merhaba, ben Arda 👋
+# Merhaba, ben Ardam .M 👋
 
 Serbest muhasebeci mali müşavir (SMMM) dünyasına özel yazılımlar geliştiren yazılım geliştiricisiyim.
 
