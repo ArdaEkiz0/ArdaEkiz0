@@ -1,4 +1,4 @@
-# Merhaba, ben Ardam .M 👋
+# Merhaba, ben Arda .M 👋
 
 ## 🚀 Öne Çıkan Proje
 
