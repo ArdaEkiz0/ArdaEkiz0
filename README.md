@@ -4,7 +4,7 @@
 
 # 🧾 Arda M. Ekiz
 
-> **SMMM (Serbest Muhasebeci Mali Müşavir) ve yazılım geliştirici.** Mesleğimin ihtiyaçlarını kendi yazdığım açık kaynak araçlarla çözüyorum: e-Fatura/KDV çapraz kontrolleri, beyanname takip sistemleri ve mali veri analizi.
+> **Yazılım geliştirici.** Mesleğimin ihtiyaçlarını kendi yazdığım açık kaynak araçlarla çözüyorum: e-Fatura/KDV çapraz kontrolleri, beyanname takip sistemleri ve mali veri analizi.
 
 ---
 
