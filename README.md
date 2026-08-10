@@ -70,6 +70,14 @@ SMMM'ler için tasarlanmış, kendi bilgisayarında çalışan web tabanlı beya
   <img src="https://streak-stats.demolab.com/?user=ArdaEkiz0&theme=github-dark&hide_border=true" alt="GitHub Streak" width="450" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArdaEkiz0&theme=github-dark&hide_border=true&hide_title=true" alt="Aktivite Grafiği" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ArdaEkiz0/ArdaEkiz0/blob/output/github-snake-dark.svg?raw=true" alt="Commit yılanı" width="100%" />
+</p>
+
 ---
 
 ## 📬 İletişim
