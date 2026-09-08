@@ -30,14 +30,14 @@
 
 ---
 
-### 🧑‍💻 Hakkımda
+### 🧑‍💻 About Me
 
 | | |
 |---|---|
-| 🎯 **Uzmanlık Alanı** | Türkiye'de maliye otomasyonu — e-Fatura/e-Arşiv, KDV çapraz kontrol, muavin defteri otomasyonu |
-| 💼 **Aktif Proje** | Luca ERP otomasyonu (Playwright), GİB portal entegrasyonu, SGK Bağ-Kur kesinti bildirimleri |
+| 🎯 **Focus** | Tax & accounting automation in Turkey — e-Invoice/e-Archive, KDV cross-check, ledger automation |
+| 💼 **Active Projects** | Luca ERP automation (Playwright), GİB portal integration, SGK Bağ-Kur deduction notifications |
 | 🛠️ **Tech Stack** | Python 3.12 · Playwright · Tkinter · SQLite · PyInstaller · OpenPyXL |
-| 🏢 **Sektör** | Muhasebe & Mali Müşavirlik araçları |
+| 🏢 **Industry** | Accounting & Tax Advisory tools |
 
 ---
 
@@ -46,8 +46,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ArdaEkiz0/kdv-capraz-kontrol">🧾 KDV Çapraz Kontrol</a></h3>
-      <p>e-Fatura (XML), PDF ve Excel faturaları ile KDV kontrol cetvellerini çapraz kontrol eder. Türk muhasebeciler için tasarlandı.</p>
+      <h3><a href="https://github.com/ArdaEkiz0/kdv-capraz-kontrol">🧾 KDV Cross-Check</a></h3>
+      <p>Cross-checks e-Invoice (XML), PDF and Excel invoices against KDV (VAT) control tables. Built for Turkish accountants.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
@@ -60,8 +60,8 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ArdaEkiz0/e-kesinti-otomasyon">🌾 SGK Bağ-Kur Otomasyon</a></h3>
-      <p>SGK Bağ-Kur tarımsal kesinti bildirimlerini otomatikleştiren masaüstü botu — Excel'den okur, SGK'ya sırayla işler.</p>
+      <h3><a href="https://github.com/ArdaEkiz0/e-kesinti-otomasyon">🌾 SGK Bağ-Kur Bot</a></h3>
+      <p>Desktop bot that automates SGK Bağ-Kur agricultural deduction notifications — reads from Excel, processes to SGK sequentially.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
@@ -81,22 +81,22 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/e--Fatura-0092BC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE5IDNINWEyIDIgMCAwMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGEyIDIgMCAwIDAgMi0yVjVhMiAyIDAgMCAwLTItMk04IDE3SDZ2LTJoMnYyTTExIDE3SDl2LTJoMnYyTTE0IDE3aC0ydi0yaDJ2Mk0xNyAxN2gtMnYtMmgydjJNOCA5SDZ2LTJoMnYyTTExIDlIOXYtMmgydjJNMTQgOWgtMnYtMmgydjJNMTcgOWgtMnYtMmgydjJNOCA2SDZWMWgydjVNMTcgNnY1aDJ2LTVIMTdaIi8+PC9zdmc+&logoColor=white" alt="e-Fatura" />
-      <br/><sub>GİB e-Fatura/e-Arşiv otomasyonu</sub>
+      <img src="https://img.shields.io/badge/e--Invoice-0092BC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE5IDNINWEyIDIgMCAwMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGEyIDIgMCAwIDAgMi0yVjVhMiAyIDAgMCAwLTItMk04IDE3SDZ2LTJoMnYyTTExIDE3SDl2LTJoMnYyTTE0IDE3aC0ydi0yaDJ2Mk0xNyAxN2gtMnYtMmgydjJNOCA5SDZ2LTJoMnYyTTExIDlIOXYtMmgydjJNMTQgOWgtMnYtMmgydjJNMTcgOWgtMnYtMmgydjJNOCA2SDZWMWgydjVNMTcgNnY1aDJ2LTVIMTdaIi8+PC9zdmc+&logoColor=white" alt="e-Invoice" />
+      <br/><sub>GİB e-Invoice/e-Archive automation</sub>
     </td>
     <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/KDV_%C3%87apraz_Kontrol-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTcgMjBoM2wtMi0ySDlhMiAyIDAgMDEtMi0yVjdhMiAyIDAgMDEgMi0yaDEwYTIgMiAwIDAgMSAyIDJ2OWEyIDIgMCAwIDEtMiAyaC0ybC0yIDJIOVoiLz48L3N2Zz4=&logoColor=white" alt="KDV" />
-      <br/><sub>Fatura - Cetvel çapraz kontrol</sub>
+      <img src="https://img.shields.io/badge/KDV_Cross--Check-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTcgMjBoM2wtMi0ySDlhMiAyIDAgMDEtMi0yVjdhMiAyIDAgMDEgMi0yaDEwYTIgMiAwIDAgMSAyIDJ2OWEyIDIgMCAwIDEtMiAyaC0ybC0yIDJIOVoiLz48L3N2Zz4=&logoColor=white" alt="KDV" />
+      <br/><sub>Invoice ↔ Ledger cross-validation</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Luca_ERP_Oracle-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVIN0wxMiAweiIvPjwvc3ZnPg==&logoColor=white" alt="Luca" />
-      <br/><sub>Luca ERP Playwright otomasyonu</sub>
+      <img src="https://img.shields.io/badge/Luca_ERP-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVIN0wxMiAweiIvPjwvc3ZnPg==&logoColor=white" alt="Luca" />
+      <br/><sub>Luca ERP Playwright automation</sub>
     </td>
     <td width="50%" align="center">
       <img src="https://img.shields.io/badge/SGK_Ba%C4%9F--Kur-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTExLjggMjEuNGwtNS45LTIuMyAzLjUtNS44LTYuMS00LjIgNy4yLS41IDMuNi02LjYgMy42IDYuNiA3LjIuNS02LjEgNC4yIDMuNSA1LjgtNS45IDIuM0wyMy44IDE2bC03LjIuNS0zLjYgNi42LTMuNi02LjYtNy4yLS41eiIvPjwvc3ZnPg==&logoColor=white" alt="SGK" />
-      <br/><sub>Tarımsal kesinti bildirim botu</sub>
+      <br/><sub>Agricultural deduction notification bot</sub>
     </td>
   </tr>
 </table>
