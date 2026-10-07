@@ -1,0 +1,6 @@
+# personal source photo — never commit (only the generated ASCII SVG is public)
+source-prepped.png
+source-photo.jpg
+72472003.jpg
+.venv/
+__pycache__/

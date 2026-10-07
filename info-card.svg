@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="300" viewBox="0 0 490 300" role="img" aria-label="About Arda M. Ekiz">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.row { opacity: 0; transform: translateX(10px); animation: slide .5s ease-out forwards; }
+@keyframes slide { to { opacity: 1; transform: translateX(0); } }
+@media (prefers-reduced-motion: reduce) { .row { animation: none; opacity: 1; transform: none; } }
+</style>
+<rect width="490" height="300" rx="10" fill="#0d1117"/>
+<circle cx="26" cy="26" r="5" fill="#ff5f56"/>
+<circle cx="44" cy="26" r="5" fill="#ebbd2e"/>
+<circle cx="62" cy="26" r="5" fill="#27c93f"/>
+<text x="245" y="30" fill="#7d8590" font-size="12" text-anchor="middle">arda@github ~ $ whoami</text>
+<text x="28" y="58" fill="#39d353" font-size="14" font-weight="bold">Arda M. Ekiz</text>
+<text x="150" y="58" fill="#7d8590" font-size="12">— SMMM · Software Developer · TR</text>
+<g class="row" style="animation-delay:0.35s"><text x="28" y="78" fill="#39d353" font-size="13" font-weight="bold">Now</text><text x="92" y="78" fill="#7d8590" font-size="13">›</text><text x="112" y="78" fill="#e6edf3" font-size="12">SMMM · building tax &amp; accounting automation</text></g>
+<g class="row" style="animation-delay:0.65s"><text x="28" y="108" fill="#58a6ff" font-size="13" font-weight="bold">Focus</text><text x="92" y="108" fill="#7d8590" font-size="13">›</text><text x="112" y="108" fill="#e6edf3" font-size="12">e-Invoice · KDV cross-check · ledger bots</text></g>
+<g class="row" style="animation-delay:0.95s"><text x="28" y="138" fill="#39c5cf" font-size="13" font-weight="bold">Stack</text><text x="92" y="138" fill="#7d8590" font-size="13">›</text><text x="112" y="138" fill="#e6edf3" font-size="12">Python · Playwright · Tkinter · SQLite</text></g>
+<g class="row" style="animation-delay:1.25s"><text x="28" y="168" fill="#e3b341" font-size="13" font-weight="bold">Ship</text><text x="92" y="168" fill="#7d8590" font-size="13">›</text><text x="112" y="168" fill="#e6edf3" font-size="12">kdv-check v2.9 · luca-mizan · e-kesinti</text></g>
+<text x="28" y="262" fill="#7d8590" font-size="11">python · javascript · sqlite · git · vscode</text>
+</svg>
