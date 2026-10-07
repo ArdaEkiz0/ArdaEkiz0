@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./typing.svg" width="860" />
 <h3><code>arda@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 <br/><br/>
@@ -14,7 +15,19 @@
 ```console
 arda@github ~ $ stack --list
 python · playwright · selenium · tkinter · sqlite · electron · git · vscode
+```
 
+<!-- langs:start -->
+```console
+arda@github ~ $ lang --top
+Python       █████████████████░░░   85%
+JavaScript   █░░░░░░░░░░░░░░░░░░░    5%
+TypeScript   █░░░░░░░░░░░░░░░░░░░    5%
+Other        █░░░░░░░░░░░░░░░░░░░    5%
+```
+<!-- langs:end -->
+
+```console
 arda@github ~ $ ls ~/projects --top
 ```
 

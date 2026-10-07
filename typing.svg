@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="56" viewBox="0 0 860 56" role="img" aria-label="building tax tools that file themselves">
+<rect width="860" height="56" rx="10" fill="#0d1117"/>
+<clipPath id="typeclip"><rect x="0" y="0" width="0" height="56"><animate attributeName="width" from="0" to="860" dur="2.2s" fill="freeze"/></rect></clipPath>
+<text x="172" y="36" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="22" fill="#39d353" clip-path="url(#typeclip)">$ building tax tools that file themselves</text>
+<rect x="715" y="19" width="12" height="22" fill="#39d353"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

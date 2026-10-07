@@ -21,7 +21,10 @@ jobs:
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/fetch_contributions.py
       - run: python scripts/render_heatmap_svg.py
+      - run: python scripts/update_langs.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh profile data [skip ci]"
+          file_pattern: "data/contributions.json data/langs.json contrib-heatmap.svg README.md"
