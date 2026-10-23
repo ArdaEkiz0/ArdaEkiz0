@@ -1,14 +1,12 @@
 {
   "user": "ArdaEkiz0",
   "langs": {
-    "Python": 1370529,
-    "JavaScript": 85221,
-    "Batchfile": 18820,
-    "NSIS": 4500,
+    "Python": 20901,
     "TypeScript": 238298,
-    "CSS": 33198,
-    "HTML": 26030,
-    "VBScript": 399,
-    "PowerShell": 394
+    "CSS": 7480,
+    "HTML": 5252,
+    "JavaScript": 4579,
+    "Batchfile": 1732,
+    "VBScript": 399
   }
 }
