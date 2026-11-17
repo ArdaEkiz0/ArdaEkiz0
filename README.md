@@ -21,7 +21,7 @@ python · playwright · selenium · tkinter · sqlite · electron · git · vsco
 ```console
 arda@github ~ $ lang --top
 TypeScript   █████████████████░░░   86%
-Python       ██░░░░░░░░░░░░░░░░░░    8%
+Python       █░░░░░░░░░░░░░░░░░░░    7%
 CSS          █░░░░░░░░░░░░░░░░░░░    3%
 Other        █░░░░░░░░░░░░░░░░░░░    4%
 ```
