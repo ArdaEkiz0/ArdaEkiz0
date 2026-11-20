@@ -20,9 +20,9 @@ python · playwright · selenium · tkinter · sqlite · electron · git · vsco
 <!-- langs:start -->
 ```console
 arda@github ~ $ lang --top
-Rust         ██████████████████░░   91%
+Rust         ██████████████████░░   92%
 Python       █░░░░░░░░░░░░░░░░░░░    5%
-PowerShell   █░░░░░░░░░░░░░░░░░░░    3%
+PowerShell   █░░░░░░░░░░░░░░░░░░░    2%
 Other        █░░░░░░░░░░░░░░░░░░░    1%
 ```
 <!-- langs:end -->
