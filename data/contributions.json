@@ -1,8 +1,8 @@
 {
   "username": "ArdaEkiz0",
-  "total": 1882,
-  "current_streak": 50,
-  "longest_streak": 50,
+  "total": 1908,
+  "current_streak": 51,
+  "longest_streak": 51,
   "best_day": {
     "date": "2026-08-21",
     "count": 129,
@@ -21,7 +21,7 @@
     "2026-08": 578,
     "2026-09": 296,
     "2026-10": 262,
-    "2026-11": 746
+    "2026-11": 772
   },
   "days": [
     {
@@ -1861,7 +1861,12 @@
     },
     {
       "date": "2026-11-25",
-      "count": 27,
+      "count": 31,
+      "level": 3
+    },
+    {
+      "date": "2026-11-26",
+      "count": 22,
       "level": 2
     }
   ]
